@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @iamjohnsonjoy
-- 👀 I’m interested in python
-- 🌱 I’m currently python
-- 💞️ I’m looking to collaborate on new encrypting password on local system 
 - 📫 How to reach me iamjohnsonjoy@yahoo.com
 
 <!---
